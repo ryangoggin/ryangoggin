@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Welcome to my Github 👋
+### Welcome to my Github 👋
 
 📝 I'm Ryan and I'm a Full-Stack Software Engineer (App Academy) w/ an Sc.B. in Chemical Engineering from Brown University 
 
