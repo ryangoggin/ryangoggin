@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 !
 <br /><br />
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ryangoggin)](https://git.io/streak-stats)
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
