@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <br /><br />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryangoggin&theme=dark)](https://git.io/streak-stats)
-
+<br /><br />
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryangoggin&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryangoggin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
