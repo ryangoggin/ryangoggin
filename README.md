@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📫 Email: ryan_goggin@alumni.brown.edu OR ryangoggin1@gmail.com
 
-💬 Connect with me on LinkedIn:
+💬 Connect with me:
 <a href="https://www.linkedin.com/in/ryangoggin20/">![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br /><br />
 
