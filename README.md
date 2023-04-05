@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔍 I'm looking for dynamic SWE team that challenges me and allows me to further refine and develop my skills as an engineer
 
-🏢 My professional experience includes web development and 4 years internships and full-time work as a process engineer in biotech/pharmaceuticals
+🏢 My professional experience includes web development and process engineering in biotech/pharmaceuticals
 
 📫 Email: ryan_goggin@alumni.brown.edu OR ryangoggin1@gmail.com
 
