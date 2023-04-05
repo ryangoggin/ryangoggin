@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my Github 👋
 
+📝 I'm Ryan and I'm a Full-Stack Software Engineer (App Academy) w/ an Sc.B. in Chemical Engineering from Brown University 
+🔍 I'm looking for dynamic SWE team that challenges me and allows me to further refine and develop my skills as an engineer
+🏢 My professional experience includes web development and 4 years internships and full-time work as a process engineer in biotech/pharmaceuticals
+📫 Email: ryan_goggin@alumni.brown.edu OR ryangoggin1@gmail.com
+💬 LinkedIn:
+<a href="https://www.linkedin.com/in/ryangoggin20/">![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a><br /><br />
+
+
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
