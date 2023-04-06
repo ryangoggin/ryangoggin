@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 📝 I'm Ryan and I'm a Full-Stack Software Engineer (App Academy) w/ an Sc.B. in Chemical Engineering from Brown University 
 
-🔍 I'm looking for dynamic SWE team that challenges me and allows me to further refine and develop my skills as an engineer
+🔍 I'm looking for a dynamic SWE team that challenges me and allows me to further refine and develop my skills as an engineer
 
 🏢 My professional experience includes web development and process engineering in biotech/pharmaceuticals
 
