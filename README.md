@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 
 🏢 My professional experience includes web development and process engineering in biotech/pharmaceuticals
 
+❗ Checkout my [Personal Site](https://ryangoggin.github.io/)!
+
 📫 Email: ryan_goggin@alumni.brown.edu OR ryangoggin1@gmail.com
 
 💬 Connect with me!
 <br /><br />
 <a href="https://www.linkedin.com/in/ryangoggin20/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://wellfound.com/u/ryan-goggin-1">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=white)</a>
-<br /><br />
-
-### ❗ Checkout my [Personal Site](https://ryangoggin.github.io/)!
 <br /><br />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryangoggin&theme=dark)](https://git.io/streak-stats)
