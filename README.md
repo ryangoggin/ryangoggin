@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🏢 My professional experience includes web development and process engineering in biotech/pharmaceuticals
 
-❗ Checkout my [Personal Site](https://ryangoggin.github.io/)!
+👉 Checkout my [Personal Site](https://ryangoggin.github.io/)!
 
 📫 Email: ryan_goggin@alumni.brown.edu OR ryangoggin1@gmail.com
 
