@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://wellfound.com/u/ryan-goggin-1">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=white)</a>
 <br /><br />
 
-### Checkout my [Personal Site](https://ryangoggin.github.io/)!
+### ❗ Checkout my [Personal Site](https://ryangoggin.github.io/)!
 <br /><br />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryangoggin&theme=dark)](https://git.io/streak-stats)
