@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <br /><br />
 
 ### Checkout my [Personal Site](https://ryangoggin.github.io/)!
+<br /><br />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryangoggin&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryangoggin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
