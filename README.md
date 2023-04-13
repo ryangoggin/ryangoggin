@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <br /><br />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryangoggin&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryangoggin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryangoggin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <br /><br />
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryangoggin&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryangoggin&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
