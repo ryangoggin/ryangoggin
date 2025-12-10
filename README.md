@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Welcome to my Github! 👋
 
-📝 I'm Ryan and I'm a Full-Stack Software Engineer w/ an Sc.B. in Chemical Engineering from Brown University 
+📝 I'm Ryan and I'm a Software Engineer w/ an Sc.B. in Chemical Engineering from Brown University 
 
 🏢 I have professional experience in software engineering for data platforms, web and mobile apps, and biotech/pharmaceuticals 
 
