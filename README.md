@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 [![Ryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=ryangoggin&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-stats-extended)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ryangoggin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-stats-extended)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryangoggin&theme=dark&exclude_days=Sat,Sun)](https://git.io/streak-stats)
 
 ### Languages:
