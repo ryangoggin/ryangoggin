@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💬 Connect with me!
 <br /><br />
-<a href="https://www.linkedin.com/in/ryangoggin20/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/ryangoggin20/">[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)</a>
 <a href="https://wellfound.com/u/ryan-goggin-1">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=white)</a>
 <br /><br />
 
